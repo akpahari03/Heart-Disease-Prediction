@@ -1,2 +1,2 @@
 # Heart-Disease-Prediction
-Heart Disease prediction Using Linear Regression
+Heart Disease Prediction Using Linear Regression
